@@ -1,0 +1,46 @@
+﻿  config.cpp
+  options.cpp
+  hooks.cpp
+  aimbot.cpp
+  autowall.cpp
+  backtrack.cpp
+  main.cpp
+  menu.cpp
+  misc.cpp
+  ui.cpp
+  backdrop.cpp
+  render.cpp
+  item_definitions.cpp
+  kit_parser.cpp
+  Parser.cpp
+  skins.cpp
+  chams.cpp
+  glow.cpp
+  grenade_prediction.cpp
+  visuals.cpp
+  input.cpp
+  math.cpp
+  utils.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  VMatrix.cpp
+  characterset.cpp
+  checksum_crc.cpp
+  checksum_md5.cpp
+  Color.cpp
+  Convar.cpp
+  UtlBuffer.cpp
+  UtlString.cpp
+  netvars.cpp
+  sdk.cpp
+  structs.cpp
+  minhook.lib(hook.obj) : найден .netmodule MSIL или модуль, откомпилированный с параметром /GL; перезапускается компоновка с параметром /LTCG; добавьте /LTCG в командную строку компоновки для повышения производительности компоновщика
+LINK : warning LNK4075: эх єўшЄ√трхЄё  "/INCREMENTAL" шч-чр ёяхЎшЇшърЎшш "/LTCG"
+LINK : fatal error C1900: ═хёююЄтхЄёЄтшх IL ьхцфє "P1", тхЁёш  "20200803" ш "P2", тхЁёш  "20180423"
+LINK : fatal error LNK1257: эх єфрыюё№ ёючфрЄ№ ъюф
